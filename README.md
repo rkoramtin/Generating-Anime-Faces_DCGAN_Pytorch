@@ -10,3 +10,5 @@ This dataset consists of 21551 anime faces.All images are resized to 64 * 64.
 
 ## A Brief Look At The Generated faces from epoch 1 to 50:
 ![Alt Text](http://uupload.ir/files/wmxa_ezgif.com-video-to-gif.gif)
+
+
