@@ -1,5 +1,5 @@
 # Generating-Anime-Faces_DCGAN_Pytorch
-Generating Anime faces using  Deep Convolutional Generative Adversarial Network (DCGAN) and pytorch framework.
+Generating Anime faces using  Deep Convolutional Generative Adversarial Network (DCGAN) and PyTorch framework.
 ![alt text](http://uupload.ir/files/cizr_example-of-the-generative-adversarial-network-model-architecture.png) <br>
 Deep convolutional generative adversarial network(DCGAN) is an extension of the GAN architecture for using deep convolutional neural networks for both the generator and discriminator.
 In this project we have implemented both the generator and discriminator using pytorch for generating new anime based faces.
